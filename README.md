@@ -1,4 +1,4 @@
-This was worked on as a group project with Yasmin Badri and Cindy Davis
+This was worked on as a group project with Yasmin Badri and Cindy Davis.
 
 ## Problem Statement
 How accurately can cancer and heart disease death rates by state be predicted? What are the top drivers given these features: median household income, access to stores/food, access to fitness centers, government assistance, food insecurity, taxes, obesity, diabetes, number/quantity of local farmers, poverty rates, air quality, water quality (lead/copper rates), smoking, industrial energy consumption, happiness, sunshine and temperature)?  The death rates for cancer and heart disease in the United States are shown below.
